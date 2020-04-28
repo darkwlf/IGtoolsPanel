@@ -6,6 +6,7 @@ to useing panel:
       
      pip install pywebview
      git clone https://github.com/darkwlf/IGtoolsPane
-     python IGools
+     python IGtools
 -good luck
+
 -dark-wolf
