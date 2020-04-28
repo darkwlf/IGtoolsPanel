@@ -1,0 +1,7 @@
+#!/usr/bin/python
+import os
+import webview
+import sys
+os.system('pip install pywebview')
+webview.create_window("IGtoolsPanel", "https://mahdihc-team.ml/IGtools")
+webview.start()
